@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d90bf99-0b37-43d3-b202-a411d06b882e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V4AUK1VgXvOI6csQaevTKz6YRp" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chat.client.Client" />
+      <module name="chat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chat.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Notepad (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Notepad" />
+      <module name="chat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Notepad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="notepad.Notepad" />
+      <module name="chat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="notepad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chat.server.Server" />
+      <module name="chat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chat.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Notepad" />
+      <item itemvalue="Application.Notepad (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Notepad" />
+        <item itemvalue="Application.Notepad (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d90bf99-0b37-43d3-b202-a411d06b882e" name="Default Changelist" comment="" />
+      <created>1576502007892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576502007892</updated>
+      <workItem from="1576502010387" duration="327000" />
+      <workItem from="1576504320604" duration="45000" />
+      <workItem from="1576510505263" duration="1773000" />
+      <workItem from="1576548893615" duration="1574000" />
+      <workItem from="1576566541467" duration="9653000" />
+      <workItem from="1576647200796" duration="6132000" />
+      <workItem from="1576654277437" duration="342000" />
+      <workItem from="1576721346271" duration="4441000" />
+      <workItem from="1576739771346" duration="75000" />
+      <workItem from="1576815192922" duration="1225000" />
+      <workItem from="1576823125080" duration="5618000" />
+      <workItem from="1576829150242" duration="1228000" />
+      <workItem from="1576831200611" duration="4142000" />
+      <workItem from="1576838176719" duration="57000" />
+      <workItem from="1576838790568" duration="2854000" />
+      <workItem from="1576907809621" duration="8242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
